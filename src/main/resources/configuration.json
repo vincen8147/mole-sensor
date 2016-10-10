@@ -1,0 +1,13 @@
+{
+    "handler" : "vincent.rpi.molesensor.EmailSender",
+    "configuration" : {
+        "username" : "[username]",
+        "password" : "[password]",
+        "smtpServer" : "smtp.gmail.com",
+        "smtpPort" : "587",
+        "to" : "[to]",
+        "from" : "[from]",
+        "subject" : "IT'S CLOBBER'N TIME",
+        "body" : "Go get 'em"
+    }
+}

@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisProjectProfileManager">
+    <option name="PROJECT_PROFILE" value="Project Default" />
+    <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+    <scopes />
+    <profiles>
+      <profile version="1.0" is_locked="false">
+        <option name="myName" value="Project Default" />
+        <coding_rule class="AbstractClassNameCheck" level="MAJOR" enabled="false">
+          <param name="ignoreModifier" value="false" />
+          <param name="ignoreName" value="false" />
+        </coding_rule>
+        <coding_rule class="AnnotationUseStyleCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="AnonInnerLengthCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ArrayTrailingCommaCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ArrayTypeStyleCheck" level="INFO" enabled="true" />
+        <coding_rule class="AvoidInlineConditionalsCheck" level="INFO" enabled="false" />
+        <coding_rule class="AvoidNestedBlocksCheck" level="MAJOR" enabled="true">
+          <param name="allowInSwitchCase" value="true" />
+        </coding_rule>
+        <coding_rule class="AvoidStarImportCheck" level="INFO" enabled="true">
+          <param name="allowClassImports" value="false" />
+          <param name="allowStaticMemberImports" value="true" />
+        </coding_rule>
+        <coding_rule class="AvoidStaticImportCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="BooleanExpressionComplexityCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ClassDataAbstractionCouplingCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ClassFanOutComplexityCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ClassTypeParameterNameCheck" level="MAJOR" enabled="true">
+          <param name="format" value="^[A-Z][0-9]*$" />
+        </coding_rule>
+        <coding_rule class="ConstantNameCheck" level="INFO" enabled="true">
+          <param name="format" value="^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$|^[a-z][a-zA-Z0-9]*Logger$|^logger$" />
+        </coding_rule>
+        <coding_rule class="CovariantEqualsCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="CyclomaticComplexityCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="DeclarationOrderCheck" level="INFO" enabled="false">
+          <param name="ignoreConstructors" value="false" />
+          <param name="ignoreMethods" value="false" />
+          <param name="ignoreModifiers" value="false" />
+        </coding_rule>
+        <coding_rule class="DefaultComesLastCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="DescendantTokenCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="DesignForExtensionCheck" level="INFO" enabled="false" />
+        <coding_rule class="EmptyBlockCheck" level="MAJOR" enabled="true">
+          <param name="option" value="text" />
+        </coding_rule>
+        <coding_rule class="EmptyForInitializerPadCheck" level="INFO" enabled="false" />
+        <coding_rule class="EmptyForIteratorPadCheck" level="INFO" enabled="true" />
+        <coding_rule class="EmptyStatementCheck" level="INFO" enabled="true" />
+        <coding_rule class="EqualsAvoidNullCheck" level="MAJOR" enabled="false">
+          <param name="ignoreEqualsIgnoreCase" value="false" />
+        </coding_rule>
+        <coding_rule class="EqualsHashCodeCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="ExecutableStatementCountCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ExplicitInitializationCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="FallThroughCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="FileLengthCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="FileTabCharacterCheck" level="MAJOR" enabled="true">
+          <param name="eachLine" value="true" />
+        </coding_rule>
+        <coding_rule class="FinalClassCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="FinalLocalVariableCheck" level="INFO" enabled="false" />
+        <coding_rule class="FinalParametersCheck" level="INFO" enabled="false" />
+        <coding_rule class="GenericWhitespaceCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="HeaderCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="HiddenFieldCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="HideUtilityClassConstructorCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="IllegalCatchCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="IllegalImportCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="IllegalInstantiationCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="IllegalThrowsCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="IllegalTokenCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="IllegalTokenTextCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="IllegalTypeCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ImportControlCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ImportOrderCheck" level="INFO" enabled="false" />
+        <coding_rule class="IndentationCheck" level="INFO" enabled="true">
+          <param name="caseIndent" value="0" />
+        </coding_rule>
+        <coding_rule class="InnerAssignmentCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="InnerTypeLastCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="InterfaceIsTypeCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="JUnitTestCaseCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="JavaNCSSCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="JavadocMethodCheck" level="MAJOR" enabled="true">
+          <param name="allowThrowsTagsForSubclasses" value="true" />
+          <param name="scope" value="protected" />
+          <param name="allowUndeclaredRTE" value="true" />
+        </coding_rule>
+        <coding_rule class="JavadocPackageCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="JavadocStyleCheck" level="MAJOR" enabled="true">
+          <param name="scope" value="private" />
+          <param name="checkEmptyJavadoc" value="true" />
+        </coding_rule>
+        <coding_rule class="JavadocTypeCheck" level="MAJOR" enabled="true">
+          <param name="scope" value="protected" />
+        </coding_rule>
+        <coding_rule class="JavadocVariableCheck" level="MAJOR" enabled="true">
+          <param name="scope" value="protected" />
+        </coding_rule>
+        <coding_rule class="LeftCurlyCheck" level="INFO" enabled="true">
+          <param name="maxLineLength" value="120" />
+        </coding_rule>
+        <coding_rule class="LineLengthCheck" level="MAJOR" enabled="true">
+          <param name="max" value="120" />
+          <param name="ignorePattern" value="^import " />
+        </coding_rule>
+        <coding_rule class="LocalFinalVariableNameCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="LocalVariableNameCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="MagicNumberCheck" level="INFO" enabled="false">
+          <param name="ignoreHashCodeMethod" value="false" />
+          <param name="ignoreAnnotation" value="false" />
+        </coding_rule>
+        <coding_rule class="MemberNameCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="MethodCountCheck" level="MAJOR" enabled="false">
+          <param name="maxTotal" value="100" />
+          <param name="maxPrivate" value="100" />
+          <param name="maxPackage" value="100" />
+          <param name="maxProtected" value="100" />
+          <param name="maxPublic" value="100" />
+        </coding_rule>
+        <coding_rule class="MethodLengthCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="MethodNameCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="MethodParamPadCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="MethodTypeParameterNameCheck" level="MAJOR" enabled="true">
+          <param name="format" value="^[A-Z][0-9]*$" />
+        </coding_rule>
+        <coding_rule class="MissingCtorCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="MissingDeprecatedCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="MissingOverrideCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="MissingSwitchDefaultCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ModifiedControlVariableCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ModifierOrderCheck" level="INFO" enabled="false" />
+        <coding_rule class="MultipleStringLiteralsCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="MultipleVariableDeclarationsCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="MutableExceptionCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="NPathComplexityCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="NeedBracesCheck" level="INFO" enabled="true" />
+        <coding_rule class="NestedForDepthCheck" level="MAJOR" enabled="false">
+          <param name="max" value="1" />
+        </coding_rule>
+        <coding_rule class="NestedIfDepthCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="NestedTryDepthCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="NewlineAtEndOfFileCheck" level="INFO" enabled="true" />
+        <coding_rule class="NoCloneCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="NoFinalizerCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="NoWhitespaceAfterCheck" level="INFO" enabled="true">
+          <param name="tokens" value="BNOT,DEC,DOT,INC,LNOT,UNARY_MINUS,UNARY_PLUS" />
+        </coding_rule>
+        <coding_rule class="NoWhitespaceBeforeCheck" level="INFO" enabled="true" />
+        <coding_rule class="OneStatementPerLineCheck" level="INFO" enabled="true" />
+        <coding_rule class="OperatorWrapCheck" level="INFO" enabled="true" />
+        <coding_rule class="OuterTypeFilenameCheck" level="INFO" enabled="true" />
+        <coding_rule class="OuterTypeNumberCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="PackageAnnotationCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="PackageDeclarationCheck" level="MAJOR" enabled="true">
+          <param name="ignoreDirectoryName" value="false" />
+        </coding_rule>
+        <coding_rule class="PackageNameCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="ParameterAssignmentCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ParameterNameCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="ParameterNumberCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ParenPadCheck" level="INFO" enabled="true" />
+        <coding_rule class="RedundantImportCheck" level="INFO" enabled="true" />
+        <coding_rule class="RedundantModifierCheck" level="INFO" enabled="false" />
+        <coding_rule class="RedundantThrowsCheck" level="INFO" enabled="true">
+          <param name="allowSubclasses" value="true" />
+        </coding_rule>
+        <coding_rule class="RegexpCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="RegexpHeaderCheck" level="MAJOR" enabled="true">
+          <param name="multiLines" value="1,2,3" />
+          <param name="headerFile" value="${checkstyle.header.file}" />
+        </coding_rule>
+        <coding_rule class="RegexpMultilineCheck" level="MAJOR" enabled="false">
+          <param name="message" value="TODO item found" />
+          <param name="minimum" value="0" />
+          <param name="maximum" value="0" />
+          <param name="format" value="TODO" />
+          <param name="ignoreCase" value="true" />
+        </coding_rule>
+        <coding_rule class="RegexpSinglelineCheck" level="MAJOR" enabled="true">
+          <param name="message" value="Line has trailing spaces." />
+          <param name="minimum" value="0" />
+          <param name="maximum" value="0" />
+          <param name="format" value="\s+$" />
+          <param name="ignoreCase" value="true" />
+        </coding_rule>
+        <coding_rule class="RegexpSinglelineJavaCheck" level="MAJOR" enabled="false">
+          <param name="message" value="TODO item found" />
+          <param name="minimum" value="0" />
+          <param name="maximum" value="0" />
+          <param name="ignoreComments" value="false" />
+          <param name="format" value="TODO" />
+          <param name="ignoreCase" value="true" />
+        </coding_rule>
+        <coding_rule class="RequireThisCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ReturnCountCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="RightCurlyCheck" level="INFO" enabled="true" />
+        <coding_rule class="SimplifyBooleanExpressionCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="SimplifyBooleanReturnCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="StaticVariableNameCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="StrictDuplicateCodeCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="StringLiteralEqualityCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="SuperCloneCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="SuperFinalizeCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="SuppressWarningsCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ThrowsCountCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="TodoCommentCheck" level="INFO" enabled="false" />
+        <coding_rule class="TrailingCommentCheck" level="INFO" enabled="false" />
+        <coding_rule class="TranslationCheck" level="INFO" enabled="false" />
+        <coding_rule class="TypeNameCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="TypecastParenPadCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="UncommentedMainCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="UnnecessaryParenthesesCheck" level="INFO" enabled="false" />
+        <coding_rule class="UnusedImportsCheck" level="INFO" enabled="true">
+          <param name="processJavadoc" value="true" />
+        </coding_rule>
+        <coding_rule class="UpperEllCheck" level="INFO" enabled="true" />
+        <coding_rule class="VisibilityModifierCheck" level="MAJOR" enabled="true">
+          <param name="packageAllowed" value="true" />
+          <param name="protectedAllowed" value="true" />
+        </coding_rule>
+        <coding_rule class="WhitespaceAfterCheck" level="INFO" enabled="true" />
+        <coding_rule class="WhitespaceAroundCheck" level="INFO" enabled="true" />
+        <coding_rule class="WriteTagCheck" level="INFO" enabled="false">
+          <param name="tagSeverity" value="error" />
+          <param name="tag" value="@author" />
+          <param name="tagFormat" value="\S" />
+        </coding_rule>
+      </profile>
+    </profiles>
+    <list size="0" />
+  </component>
+  <component name="CheckstyleConfigurable">
+    <option name="suppFilterFilename" value="" />
+    <option name="suppCommentFilter" value="false" />
+    <option name="offComment" value="CHECKSTYLE\:OFF" />
+    <option name="onComment" value="CHECKSTYLE\:ON" />
+    <option name="checkFormat" value=".*" />
+    <option name="messageFormat" value="" />
+    <option name="checkCPP" value="true" />
+    <option name="checkC" value="true" />
+    <option name="suppNearbyCommentFilter" value="false" />
+    <option name="snCommentFormat" value="SUPPRESS CHECKSTYLE (\w+)" />
+    <option name="snCheckFormat" value="$1" />
+    <option name="snMessageFormat" value="" />
+    <option name="snInfluenceFormat" value="0" />
+    <option name="snCheckCPP" value="true" />
+    <option name="snCheckC" value="true" />
+    <option name="pathToUserRulesConfiguration" value="" />
+    <option name="pathToJarWithRules" value="" />
+  </component>
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="?*.properties" />
+      <entry name="?*.xml" />
+      <entry name="?*.gif" />
+      <entry name="?*.png" />
+      <entry name="?*.jpeg" />
+      <entry name="?*.jpg" />
+      <entry name="?*.html" />
+      <entry name="?*.dtd" />
+      <entry name="?*.tld" />
+      <entry name="?*.ftl" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for mole-sensor" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="mole-sensor" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.7">
+      <module name="mole-sensor" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="CopyrightManager" default="" />
+  <component name="Encoding">
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="Palette2">
+    <group name="Swing">
+      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
+      </item>
+      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
+      </item>
+      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.png" removable="false" auto-create-binding="false" can-attach-label="true">
+        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
+        <initial-values>
+          <property name="text" value="Button" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="RadioButton" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="CheckBox" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="Label" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+          <preferred-size width="200" height="200" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+          <preferred-size width="200" height="200" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
+      </item>
+      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
+          <preferred-size width="-1" height="20" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
+      </item>
+      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
+      </item>
+    </group>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mole-sensor.iml" filepath="$PROJECT_DIR$/mole-sensor.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.4">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.4/jackson-core-2.8.4.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.4/jackson-core-2.8.4-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.4/jackson-core-2.8.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.4">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.pi4j:pi4j-core:1.1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/pi4j/pi4j-core/1.1/pi4j-core-1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/pi4j/pi4j-core/1.1/pi4j-core-1.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/pi4j/pi4j-core/1.1/pi4j-core-1.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.sun.mail:javax.mail:1.5.6">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: javax.activation:activation:1.1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/activation/activation/1.1/activation-1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/activation/activation/1.1/activation-1.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/activation/activation/1.1/activation-1.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: javax.mail:javax.mail-api:1.5.6">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/mail/javax.mail-api/1.5.6/javax.mail-api-1.5.6.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/mail/javax.mail-api/1.5.6/javax.mail-api-1.5.6-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/mail/javax.mail-api/1.5.6/javax.mail-api-1.5.6-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
